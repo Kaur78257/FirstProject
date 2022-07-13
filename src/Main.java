@@ -3,6 +3,8 @@ public class Main {
 
         System.out.println("Hello");
         System.out.println("New GIT project");
+         System.out.println("New JENKINS project");
+        
     }
 
 }
